@@ -1,0 +1,2 @@
+Error encountered at line: WS01;A03;card;198;;5437588499034201;2021.01.182 java.time.format.DateTimeParseException: Text '2021-01-182' could not be parsed, unparsed text found at index 10
+Error encountered at line: WS02;A02;card;2904;;4908366099282204;2021.01.1 java.time.format.DateTimeParseException: Text '2021-01-1' could not be parsed at index 8
